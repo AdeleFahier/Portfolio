@@ -32,7 +32,7 @@ $(document).on("click", ".data ul li a", function() {
 
 // BUTTON EVENT HOMEPAGE
 document.getElementById("buttonOne").onclick = function () {
-      location.href = "portefolio.html";
+      location.href = "portfolio.html";
   };
   document.getElementById("buttonTwo").onclick = function () {
      location.href = "competences.html";
