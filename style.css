@@ -360,6 +360,16 @@ h4 {
     transform: translateX(-100rem);
     animation: slideIn 2s forwards;
 }
+#portfolio-info{
+    position: relative;
+    top: 140px;
+    text-align: center;
+    font-size: 18px;
+    z-index: 5;
+    letter-spacing: 0.1em;
+    color: rgba(240, 237, 203, 0.658);
+
+}
 
 .block {
     position: relative;
